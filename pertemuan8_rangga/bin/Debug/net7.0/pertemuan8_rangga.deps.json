@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pertemuan8_rangga/1.0.0": {
+        "runtime": {
+          "pertemuan8_rangga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pertemuan8_rangga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

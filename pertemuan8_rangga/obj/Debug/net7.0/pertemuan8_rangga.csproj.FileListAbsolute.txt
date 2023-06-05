@@ -1,0 +1,15 @@
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/bin/Debug/net7.0/pertemuan8_rangga
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/bin/Debug/net7.0/pertemuan8_rangga.deps.json
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/bin/Debug/net7.0/pertemuan8_rangga.runtimeconfig.json
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/bin/Debug/net7.0/pertemuan8_rangga.dll
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/bin/Debug/net7.0/pertemuan8_rangga.pdb
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.csproj.AssemblyReference.cache
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.AssemblyInfoInputs.cache
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.AssemblyInfo.cs
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.csproj.CoreCompileInputs.cache
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.dll
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/refint/pertemuan8_rangga.dll
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.pdb
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/pertemuan8_rangga.genruntimeconfig.cache
+/Users/rizky28eka/Projects/pertemuan8_rangga/pertemuan8_rangga/obj/Debug/net7.0/ref/pertemuan8_rangga.dll
